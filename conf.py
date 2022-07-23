@@ -22,5 +22,5 @@ port2 = 1525
 username_db2 = 'Destination Username'
 #enter password for destination database (to connect with database)
 password_db2 = """Destination_password"""
-#€nter destination table name (for comparing destination data)
+#â‚¬nter destination table name (for comparing destination data)
 destination_table='DESTINATION_TABLE_NAME'
